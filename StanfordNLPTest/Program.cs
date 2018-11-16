@@ -3,6 +3,9 @@ using edu.stanford.nlp.ie.crf;
 
 namespace StanfordNLPTest
 {
+    /*
+     * https://sergey-tihon.github.io/Stanford.NLP.NET/StanfordCoreNLP.html
+     */
     class Program
     {
         static void Main(string[] args)
