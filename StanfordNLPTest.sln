@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2018
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StanfordNLPTest", "StanfordNLPTest\StanfordNLPTest.csproj", "{89297E2C-3F72-4F90-BC73-2DC57612F14E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainCustomModel", "TrainCustomModel\TrainCustomModel.csproj", "{7F908CBB-E962-478F-873D-81FF9645106A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{89297E2C-3F72-4F90-BC73-2DC57612F14E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89297E2C-3F72-4F90-BC73-2DC57612F14E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89297E2C-3F72-4F90-BC73-2DC57612F14E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F908CBB-E962-478F-873D-81FF9645106A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F908CBB-E962-478F-873D-81FF9645106A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F908CBB-E962-478F-873D-81FF9645106A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F908CBB-E962-478F-873D-81FF9645106A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,14 @@
+﻿hp	Brand
+spectre	ModelName
+x360	ModelName
+
+home	Category
+theater	Category
+system	0
+
+horizon	ModelName
+zero	ModelName
+dawn	ModelName
+ps4	0
+
+hoverboard	Category
