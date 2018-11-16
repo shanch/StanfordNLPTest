@@ -260,3 +260,4 @@ paket-files/
 __pycache__/
 *.pyc
 stanford-ner-2016-10-31/
+/TrainCustomModel/ner-model.ser.gz
